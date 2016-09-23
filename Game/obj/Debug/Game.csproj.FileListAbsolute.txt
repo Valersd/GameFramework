@@ -1,0 +1,4 @@
+D:\Visual Studio 2013 Projects\Game\Game\bin\Debug\Game.dll
+D:\Visual Studio 2013 Projects\Game\Game\bin\Debug\Game.pdb
+D:\Visual Studio 2013 Projects\Game\Game\obj\Debug\Game.dll
+D:\Visual Studio 2013 Projects\Game\Game\obj\Debug\Game.pdb
